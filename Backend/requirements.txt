@@ -1,0 +1,4 @@
+fastapi[all]
+uvicorn
+pydantic
+pymongo[srv]==3.6

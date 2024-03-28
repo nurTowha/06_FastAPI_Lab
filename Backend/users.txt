@@ -1,0 +1,3 @@
+{"username": "adwdadawd", "email": "adwdadwadawdaw", "phone": "11111111111"}
+{"username": "LionelMessi", "email": "messi@gmail.com", "phone": "12345678910"}
+{"username": "cristianoRonaldo", "email": "ronaldo@gmail.com", "phone": "12345678911"}
